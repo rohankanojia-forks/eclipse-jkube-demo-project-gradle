@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/github/license/rohanKanojia/eclipse-jkube-demo-project)
 [![Twitter](https://img.shields.io/twitter/follow/jkubeio?style=social)](https://twitter.com/jkubeio)
+[![GitHub User's stars](https://img.shields.io/github/stars/eclipse/jkube?style=social)](https://github.com/eclipse/jkube)
+
 
 > Note: This a demo project for [Eclipse JKube](https://github.com/eclipse/jkube) for a blog. You can find full blog here: [Introduction to Eclipse JKube Kubenretes & OpenShift Gradle Plugins]()
 
